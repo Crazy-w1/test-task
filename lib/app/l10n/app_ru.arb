@@ -1,0 +1,35 @@
+{
+    "vendingMachines":"Торговые автоматы",
+    "onlineStatus":"Работает",
+    "offlineStatus":"Не работает",
+    "atmTypeOfTire":"Тип шины",
+    "atmSignalLevel":"Уровень сигнала",
+    "atmModem":"Модем",
+    "atmIdentifier":"Идентификатор",
+    "loadingButton":"Загрузка",
+    "inventoryButton":"Инвентаризация",
+    "eventsButton":"События",
+    "watchMoreButton":"Смотреть еще",
+    "finance":"Финансы",
+    "moneyInTA":"Деньги в ТА",
+    "change":"Сдача",
+    "currentLoadingLevel":"Текущий уровень загрузки",
+    "bottomTitleLoading":"Загрузка",
+    "bottomChanges":"Изменения от ",
+    "bottomChangesSuccessfully":" применены успешно",
+    "bottomChangesUnsuccessfully":" не были приняты",
+    "bottomDecimalposition":"Decimal position",
+    "bottomScaleFactor":"Scale factor",
+    "bottomCash":"Cash",
+    "bottomCashless":"Cashless",
+    "turnOnSound":"Включить звук",
+    "bottomMasterMode":"Режим мастер",
+    "isUsed":"Используется",
+    "notUsed":"Не используется",
+    "priceLists":"Прайс листы",
+    "lastSyncModem":"Последняя синхронизация с модемом",
+    "price":"Цена",
+    "addLine":"Добавить строку",
+    "saveChanges":"Сохранить изменения"
+
+}
